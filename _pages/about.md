@@ -8,14 +8,11 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: false
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -23,4 +20,10 @@ I am a current research assistant in the AI for Science lab at Caltech, working 
 
 I obtained my Master's degree in Computational Biology from [Carnegie Mellon University](https://www.cmu.edu/) in 2023. During my time at CMU, I worked with [Prof. Hosein Mohimani](https://cbd.cmu.edu/people/mohimani.html) in natural antibiotics prediction from microbial genome. Meanwhile, I worked with [Prof. David Ryan Koes](https://bits.csb.pitt.edu/) and Ph.D. student [Andrew McNutt](https://drewnutt.github.io/) from the [University of Pittsburgh](https://www.pitt.edu/) on deep-learning-based knowledge distillation for a protein-ligand docking tool [GNINA](https://github.com/gnina/gnina). These experiences initialized my interest in computational drug design.
 
-I also have dual Bachelor's degrees in Biochemical Engineering from [Southwest Jiaotong University](https://en.swjtu.edu.cn/) in China and [Katholieke Universiteit Leuven](https://www.kuleuven.be/english/kuleuven) in Belgium (sponsored as an exchange student).
+I also have dual Bachelor's degrees from [Southwest Jiaotong University](https://en.swjtu.edu.cn/) in China and [Katholieke Universiteit Leuven](https://www.kuleuven.be/english/kuleuven) in Belgium (sponsored as an exchange student). I have won two National Scholarships in 2018 and 2019 (National Top 0.2%).
+
+### Besides Research
+* I am a fan of [Borussia Dortmund](https://www.bvb.de/eng), a soccer club in Bundesliga. I have been to Westfalenstadion in the Signal Iduna Park to support the team.
+* Cartoon character [Crayon Shin-chan](https://en.wikipedia.org/wiki/Crayon_Shin-chan) always helps me find warmth in the mundane and feel the beauty of life. He inspires me to take responsibility in my family and provide a better life for my loved ones.
+* I am also a horror movie lover because it reduces my stress from studying and working.
+* Check my favourite song [here](https://www.youtube.com/watch?v=-m7Hgzbvm30).

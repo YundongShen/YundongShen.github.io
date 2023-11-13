@@ -2,96 +2,73 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Yanjing Li (李彦敬)
     - name: Languages
-      value: English, German
+      value: English, Chinese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master of Science
+      institution: Carnegie Mellon University
+      year: 2021-2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Computational Biology
+        - GPA 4.05/4.33
+    - title: Bachelor of Science
+      institution: Katholieke Universiteit Leuven
+      year: 2019-2021
       description:
-        - Description 1.
-        - Description 2.
+        - Biochemical Engineering
+        - Cum Laude
+    - title: Bachelor of Engineering
+      institution: Southwest Jiaotong University
+      year: 2017-2019
+      description:
+        - Bioengineering
+        - GPA 3.9/4.0
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Assistant
+      institution: School of Computing and Mathematical Sciences, California Institute of Technology
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Advised by Prof. Anima Anandkumar
+        - Utilized deep learning methodologies, such as equivariant representation learning, to advance the field of biology, particularly in the areas of protein analysis and binding dynamics, to facilitate drug discovery
+    - title: Machine Learning Summer Camp Student
+      institution: SunLab at UIUC
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Developed three additional modules for the open-source AI-Healthcare package <a href="https://github.com/sunlabuiuc/PyHealth">PyHealth</a
+        - Explored the potential of ChatGPT as a Large Language Model in retrosynthesis prediction through Chain of Thoughts and prompt tuning.
+    - title: Research Student
+      institution: Department of Computational and Systems Biology, University of Pittsburgh
+      year: 2022-2023
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - Advised by Prof. David Ryan Koes
+        - Designed a knowledge distillation pipeline within the PyTorch framework to distill knowledge from an ensemble of deep neural networks, which were fine-tuned CNN models employed in GNINA
+    - title: Research Assistant
+      institution: School of Computer Science, Carnegie Mellon Unviversity
+      year: 2021-2023
+      description:
+        - Advised by Prof. Hosein Mohimani
+        - Developed a tool that automatically predicts aminoglycoside antibiotics structure via microbial genome mining
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Honors of Research Excellence & Academic Achievement by Carnegie Mellon Univesity
+    - year: 2020
       items: 
-        - Max Planck Medal
+        - SensUs2020 Biosensor Design - Translation Potential Award KULeuven Team
+    - year: 2019
+      items: 
+        - National Scholarship by China Ministry of Education
+    - year: 2018
+      items: 
+        - National Scholarship by China Ministry of Education
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
