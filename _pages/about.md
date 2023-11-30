@@ -25,5 +25,4 @@ I also have dual Bachelor's degrees from [Southwest Jiaotong University](https:/
 ### Besides Research
 * I am a fan of [Borussia Dortmund](https://www.bvb.de/eng), a soccer club in Bundesliga. I have been to Westfalenstadion in the Signal Iduna Park to support the team.
 * Cartoon character [Crayon Shin-chan](https://en.wikipedia.org/wiki/Crayon_Shin-chan) always helps me find warmth in the mundane and feel the beauty of life. He inspires me to take responsibility in my family and provide a better life for my loved ones.
-* I am also a horror movie lover because it reduces my stress from studying and working.
 * Check my favourite song [here](https://www.youtube.com/watch?v=-m7Hgzbvm30).
