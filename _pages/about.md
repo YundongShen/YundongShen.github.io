@@ -25,6 +25,6 @@ I obtained my Master's degree in Computational Biology from [Carnegie Mellon Uni
 I also have dual Bachelor's degrees from [Southwest Jiaotong University](https://en.swjtu.edu.cn/) in China and [Katholieke Universiteit Leuven](https://www.kuleuven.be/english/kuleuven) in Belgium (sponsored as an exchange student).
 
 ### Besides Research
-* I am a fan of [Borussia Dortmund](https://www.bvb.de/eng), a soccer club in Bundesliga. I have been to Westfalenstadion in the Signal Iduna Park in German to support the team.
+* **[Bye Marco Reus - Capitan of Dortmund forever](https://bvbbuzz.com/posts/marco-reus-leave-borussia-dortmund)** I am a fan of [Borussia Dortmund](https://www.bvb.de/eng), a soccer club in Bundesliga. I have been to Westfalenstadion in the Signal Iduna Park in German to support the team.
 * Cartoon character [Crayon Shin-chan](https://en.wikipedia.org/wiki/Crayon_Shin-chan) always helps me find warmth in the mundane and feel the beauty of life. He inspires me to take responsibility in my family and provide a better life for my loved ones.
 * Check my favourite song [here](https://www.youtube.com/watch?v=-m7Hgzbvm30).
