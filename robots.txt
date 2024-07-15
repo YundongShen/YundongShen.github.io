@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://YundongShen.github.io/sitemap.xml
+Sitemap: YundongShen.github.io/sitemap.xml
