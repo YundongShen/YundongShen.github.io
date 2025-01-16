@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: SYD.jpg
+  image: aboutSYD.jpg
   image_circular: false # crops the image to make it circular
   more_info: false
 
